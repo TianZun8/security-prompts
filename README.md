@@ -1,4 +1,4 @@
-# Cybersecurity Fundamentals Prompts
+# Cybersecurity Prompts
 
 Welcome to the **Cybersecurity Fundamentals Prompts** repository! This collection of 100 prompts is designed to help learners of all levels explore and strengthen their understanding of key cybersecurity concepts. From networking basics to advanced topics like cloud security, these prompts provide an engaging way to expand your knowledge.
 
